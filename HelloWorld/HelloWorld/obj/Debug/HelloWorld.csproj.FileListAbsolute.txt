@@ -1,0 +1,1 @@
+H:\Training\CSharp\MVA_Learning_C#-_Beginners\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config

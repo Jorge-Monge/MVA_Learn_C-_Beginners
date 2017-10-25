@@ -10,9 +10,6 @@ namespace Variables
     {
         static void Main(string[] args)
         {
-            int x = 7;
-            int y = x + 3;
-
             Console.Write("What is your first name? ");
             string myFirstName = Console.ReadLine();
             Console.Write("What is your last name? ");

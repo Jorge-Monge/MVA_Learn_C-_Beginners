@@ -10,12 +10,10 @@ namespace Variables
     {
         static void Main(string[] args)
         {
-            Console.Write("What is your first name? ");
-            string myFirstName = Console.ReadLine();
-            Console.Write("What is your last name? ");
-            string myLastName = Console.ReadLine();
-
-            Console.WriteLine("Your complete name is " + myFirstName + " " + myLastName);
+            int x = 10;
+            string y = "Jorge";
+            int z = x + y;
+            Console.WriteLine(z);
             Console.ReadLine();
         }
     }

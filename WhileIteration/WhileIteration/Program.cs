@@ -9,7 +9,7 @@ namespace WhileIteration
     class Program
     {
         static void Main(string[] args)
-        {
+        {   // Just a comment
             bool displayMenu = true;
             while (displayMenu)
             {
